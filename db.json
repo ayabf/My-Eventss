@@ -1,5 +1,5 @@
 {
-      events: [
+      "events": [
         {
           id: 5928101,
           category: "bien-etre animal",
@@ -15,8 +15,7 @@
           id: 4582797,
           category: "nourriture",
           title: "Jardinage communitaire",
-          description:
-            "Rejoignez-nous alors que nous nous occupons des plantes",
+          description:"Rejoignez-nous alors que nous nous occupons des plantes",
           location: "El nasr",
           date: "14 Mars 2022",
           time: "10:00",
