@@ -1,16 +1,16 @@
 {
-      "events": [
-        {
-          "id": 1,
-          "nom": "benfraj",
-          "prenom": "aya",
-          "abscence": 1
-        },
-        {
-          "id": 1,
-          "nom": "benfraj",
-          "prenom": "aya",
-          "abscence": 1
-        }
-      ]
-    },
+   "variants":[
+      {
+         "id":50,
+         "marque":"Ford",
+         "quantity":150,
+         "prixParJour":50
+      },
+      {
+         "id":51,
+         "marque":"Pegeout",
+         "quantity":3,
+         "prixParJour":150
+      }
+   ]
+}
