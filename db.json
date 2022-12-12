@@ -2,15 +2,10 @@
    "events":[
       {
          "id":50,
-         "marque":"Ford",
-         "quantity":150,
-         "prixParJour":50
-      },
-      {
-         "id":51,
-         "marque":"Pegeout",
-         "quantity":3,
-         "prixParJour":150
+         "cin":"123456",
+         "nom":"Ford",
+         "prenom":"150",
+         "abscence":0
       }
    ]
 }
