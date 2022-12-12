@@ -1,16 +1,16 @@
 {
       "events": [
         {
-          id: 1,
-          nom: "benfraj"
-          prenom: "aya",
-          abscence: 1,
+          "id": 1,
+          "nom": "benfraj",
+          "prenom": "aya",
+          "abscence": 1
         },
         {
-          id: 1,
-          nom: "benfraj"
-          prenom: "aya",
-          abscence: 1,
-        },
-      ],
-    };
+          "id": 1,
+          "nom": "benfraj",
+          "prenom": "aya",
+          "abscence": 1
+        }
+      ]
+    },
