@@ -1,10 +1,10 @@
 {
    "events":[
       {
-         "id":50,
+         "id":1,
          "cin":"123456",
-         "nom":"Ford",
-         "prenom":"150",
+         "nom":"benfraj",
+         "prenom":"aya",
          "abscence":0
       }
    ]
